@@ -1,0 +1,3 @@
+date,time,tool,stage,purpose,prompt_summary,output_summary,accepted_parts,human_verification,owner,notes
+2026-08-10,,"Codex","setup","build workflow scaffold","create a contest modeling assistant workspace","workspace templates and prompts","directory structure and templates","manual review required","team","initial row example"
+
